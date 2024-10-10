@@ -1,0 +1,2 @@
+my_robot_control:my_robot_slam:myahrs_driver:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/root/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/root/ros_ws/install -G Unix Makefiles
